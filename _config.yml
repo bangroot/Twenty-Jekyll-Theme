@@ -32,6 +32,7 @@ prose:
           element: "checkbox"
           value: "false"
           alterable: true
+          label: 'Published?'
       - name: "categories"
         field:
           element: "multiselect"
