@@ -33,6 +33,12 @@ prose:
           value: "false"
           alterable: true
           label: 'Published?'
+      - name: "date"
+        field:
+          element: "text"
+          value: CURRENT_DATETIME
+          alterable: true
+          label: 'Post Date'
       - name: "categories"
         field:
           element: "multiselect"
