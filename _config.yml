@@ -9,6 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bangroot.thebteam.co" # the base hostname & protocol for your site
 twitter_username: bangroot
 github_username:  bangroot
+timezone: 'America/Costa_Rica'
 
 # Build settings
 markdown: kramdown
