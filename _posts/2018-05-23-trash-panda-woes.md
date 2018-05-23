@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 date: '2018-05-23 15:19 -0600'
 title: Trash Panda Woes
 ---
