@@ -6,4 +6,4 @@ title: Trash Panda Woes
 ---
 ## Our Visitor
 
-![]({{site.baseurl}}/https://photos.app.goo.gl/2NGe8iDdnH6A5lTE3)
+![](https://photos.app.goo.gl/2NGe8iDdnH6A5lTE3)
